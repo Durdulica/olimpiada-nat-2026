@@ -1,0 +1,10 @@
+dorin@gmail.com#2026-04-19 12:00:00#60#90#2#Terminat
+ana@gmail.com#2026-04-15 13:30:00#65#280#2#Terminat
+dorin@gmail.com#2026-04-14 12:00:00#120#300#3#Terminat
+ion@gmail.com#2026-04-16 14:15:00#110#260#3#Terminat
+alex@gmail.com#2026-04-18 20:30:00#110#310#3#Terminat
+dorin@gmail.com#2026-04-12 10:30:00#215#18#3#Terminat
+dorin@gmail.com#2026-04-19 11:00:00#40#120#2#Salvat
+dorin@gmail.com#2026-04-19 11:30:00#105#300#3#Salvat
+ana@gmail.com#2026-04-18 10:45:00#70#200#3#Salvat
+dorin@gmail.com#2026-05-26 16:22:11#238#48#4#Terminat
